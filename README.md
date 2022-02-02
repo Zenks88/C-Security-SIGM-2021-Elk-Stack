@@ -1,7 +1,7 @@
-# Auto detect @ -1,141 +0,0 @@
-# University of Western Australia Cybersecurity Bootcamp Project + SIGM
 
-## Autmorated ELK Stack Deployment
+# UWA Cybersecurity Bootcamp Project + SIGM
+
+## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
 
