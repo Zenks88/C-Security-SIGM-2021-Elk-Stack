@@ -123,7 +123,7 @@ In /etc/ansible/hosts you tell it where you want eachto be installed ElkServers 
 
 Which URL do you navigate to in order to check that the ELK server is running?
 
-http://publicip(elkserver):5601
+http://publicip(elkserver):5608
 
 ### Commands needed to run the Anisble Configuration for the Elk-Server are:
 1. ssh RedAdmin@JumpBox(PrivateIP)
